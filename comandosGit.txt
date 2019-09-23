@@ -13,4 +13,5 @@ pull
 push
 branch
 diff
+con estos comandos se puede trabajar en git
 
